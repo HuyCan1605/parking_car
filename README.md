@@ -1,2 +1,3 @@
 # parking_car
-It's my first project about IOT.  
+
+This is my first IOT project
